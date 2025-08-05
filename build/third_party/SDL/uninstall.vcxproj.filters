@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\CMakeFiles\0f770c5d5a85ec7f29c62cc7492de906\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\third_party\SDL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\third_party\SDL\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8179D55-E84D-33EF-9557-DDE607CE86C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

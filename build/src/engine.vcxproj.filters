@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\src\CMakeFiles\engine.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_initializers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_images.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_descriptors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_pipelines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_initializers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_images.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_descriptors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_pipelines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\vk_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\src\CMakeFiles\engine.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\src\CMakeFiles\engine.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\src\CMakeFiles\engine.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\build\src\CMakeFiles\engine.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aois-PC\Documents\Projects\vkguide\vulkan-guide\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D0CBDDCF-E86C-3A45-938F-0CE02F1B50B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{84248E00-5BB5-388C-8F25-C612AB4CD9A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8DFD16F-2131-3647-9A7E-DE9D0FC71C58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
